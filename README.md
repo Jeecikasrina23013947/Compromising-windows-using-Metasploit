@@ -1,4 +1,4 @@
-# Compromising-windows-using-Metasploit
+# EX 06-Compromising-windows-using-Metasploit
 Compromising windows using Metasploit
 # Metasploit
 Compromising windows using Metasploit
